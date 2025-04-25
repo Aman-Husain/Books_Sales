@@ -34,7 +34,7 @@ Overall, this expansive and comprehensive Books Dataset.
 ![image](https://github.com/user-attachments/assets/d2f07002-174a-4d2e-b649-a16d466c976c)
 # Boxplot of each General
 ![image](https://github.com/user-attachments/assets/4837759c-3937-45a3-8bd3-87e2003b43aa)
-# Scatter Plot of Scatter Plot Of Sales Price Vs Units Sold
+# Scatter Plot Of Sales Price Vs Units Sold
 ![image](https://github.com/user-attachments/assets/480508e5-9ced-426e-a563-fd84551fe82c)
 # Pie chart of language distribution of Books
 ![image](https://github.com/user-attachments/assets/30cf3032-e9f7-4b4c-9b0b-96e4d6734b45)
